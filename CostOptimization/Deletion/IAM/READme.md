@@ -1,5 +1,5 @@
-**1. Importance of Deleting Unused IAM Roles for AWS Cost Optimization:
-**
+**1. Importance of Deleting Unused IAM Roles for AWS Cost Optimization:**
+
 Security: Reduces the risk of unauthorized access by minimizing the number of entry points.
 Management: Simplifies management of roles and permissions, making it easier to audit and maintain.
 Cost Efficiency: While IAM roles themselves don't incur charges, attached resources like policies and instance profiles can contribute to indirect costs.
